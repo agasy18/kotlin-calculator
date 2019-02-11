@@ -14,7 +14,7 @@ With exception handling
 try {
     println(eval(str))
 } catch (e: IllegalExpressionException) {
-    println("Error '${e.message} | ${it.substring(0, e.index)} >>${it[e.index]}<<< ${it.substring(e.index)}")
+    println("Error '${e.message}' index = ${e.index}")
 }
 ```
 
