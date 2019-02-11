@@ -1,4 +1,4 @@
-# Simple Kotlin Calculator with 40 lines
+# Kotlin Simple Calculator with 40 lines
 
 [Code](src/main/kotlin/Calculator.kt)
 
