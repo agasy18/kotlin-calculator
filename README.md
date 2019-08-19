@@ -6,7 +6,7 @@
 
 ```kotlin
 val str = "5 + 5"
-print(eval(str)) //5
+print(eval(str)) //10
 ```
 
 With exception handling
